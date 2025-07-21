@@ -2,7 +2,7 @@
 Boolian is minimal app designed to help people learn about NFTs,as NFTs have became a hype now a days.
 
 <p align="center">
-<img src="https://github.com/CoderXAyush/Boolian/blob/main/app/src/main/Boolian.png" width="150"> </p>
+<!-- <img src="https://github.com/CoderXAyush/Boolian/blob/main/app/src/main/Boolian.png" width="150"> </p> -->
 
 ## Features and UI
 1. Login Page
